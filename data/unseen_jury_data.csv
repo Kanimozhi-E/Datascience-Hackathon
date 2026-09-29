@@ -1,0 +1,7 @@
+Supplier_ID,Financial_Stability_Score,On_Time_Delivery_Rate,Defect_Rate,Geopolitical_Risk_Index,Lead_Time_Days,Alternative_Suppliers_Available,Contract_Length_Months,Environmental_Compliance,Previous_Disruptions,Risk_Level
+JURY_SUP_001,78.5,92.4,1.2,18,14,4,24,95.0,0,0
+JURY_SUP_002,32.1,64.0,8.7,68,45,0,6,42.0,2,1
+JURY_SUP_003,55.0,88.0,2.5,35,21,2,18,80.0,1,0
+JURY_SUP_004,22.4,52.1,11.4,75,55,1,12,105.0,3,1
+JURY_SUP_005,85.0,96.5,0.5,10,10,5,36,98.0,0,0
+JURY_SUP_006,,70.0,6.2,55,30,2,12,65.0,1,1
